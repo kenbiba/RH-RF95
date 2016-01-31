@@ -1,0 +1,7 @@
+{
+  "name": “RH-RF95”,
+  "author": “Ken Biba <kenbiba@me.com“,
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": “A Particle Dev compatible version of the LoRa drivers“
+}
